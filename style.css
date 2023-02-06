@@ -1,0 +1,58 @@
+.navHeaderBgColor {
+    background-color: #f1592a !important;
+}
+
+.btnBorderRound {
+    border: 1px solid white;
+    background-color: #f1592a !important;
+    padding: 0px 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: white;
+}
+
+.divColorRound {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.divColorRound>i {
+    color: #595c5f;
+    padding-left: 10px;
+}
+
+.removeBorder {
+    border: none;
+}
+
+.orangeColor {
+    color: #f1592a;
+}
+
+.whiteColor {
+    color: white;
+}
+
+.cstmBtn {
+    background-color: #f1592a;
+    color: white;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+.pA {
+    top: 20px;
+    left: 20px;
+}
+
+.pA>a {
+    margin: 0 5px;
+}
+
+.aBgWhite {
+    background-color: white;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
